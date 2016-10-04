@@ -9,7 +9,7 @@ this.addEventListener('install', function(event) {
         '/swstatic/image-list.js',
         '/swstatic/star-wars-logo.jpg',
         '/swstatic/gallery/bountyHunters.jpg',
-        '/swstatic/gallery/myLittleVader.jpg',
+        '/swstatic/gallery/myLittleVader1.jpg',
         '/swstatic/gallery/snowTroopers.jpg'
       ]);
     })
